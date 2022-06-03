@@ -1,0 +1,28 @@
+<div class="row no-gutters">
+  <div class="side_bar col-md-3 border">
+    <ul class="list-group">
+      <li class="list-group-item list-group-item-warning">
+          Categories
+      </li>
+      <li class="list-group-item">
+        <a routerLink="/sensors">Sensor Collections</a>
+      </li>
+      <li class="list-group-item">
+        <a routerLink="/wireless">Wireless Collections</a>
+      </li>
+      <li class="list-group-item">
+        <a routerLink="/wired">Wired Collections</a>
+      </li>
+      <li class="list-group-item">
+        <a routerLink="/processor">Processor Collections</a>
+      </li>
+      <li class="list-group-item">
+        <a routerLink="/robotics">Robotic Collections</a>
+      </li>
+    </ul>  
+
+  </div>
+  <div class="component_viewer col-md-9 bg-light">
+      <router-outlet></router-outlet>
+  </div>
+</div>

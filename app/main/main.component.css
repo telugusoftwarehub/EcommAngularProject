@@ -1,0 +1,6 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+div.row.no-gutters {
+    min-height: 600px;
+}
+

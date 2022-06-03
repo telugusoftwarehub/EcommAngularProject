@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Temperature Sensor",
+        "category": "sensors",
+        "description": "measures coolness or hotness",
+        "price": 30,
+        "cartQuantity": 1,
+        "image": "https://5.imimg.com/data5/BG/AM/MY-41573657/ds18b20-temperature-sensor-module-for-arduino-500x500.jpg"
+    },
+    {
+        "title": "ESP8266 Wifi Module",
+        "category": "wireless",
+        "description": "transmit or receives wireless data",
+        "price": 250,
+        "cartQuantity": 1,
+        "image": "https://5.imimg.com/data5/UE/MI/MY-21085075/esp8266-esp-01-wifi-module-500x500.jpg"
+    },
+    {
+        "title": "USB to Serial DB9",
+        "category": "wired",
+        "description": "mtransmit or receives wired data",
+        "price": 400,
+        "cartQuantity": 1,
+        "image": "https://5.imimg.com/data5/II/QX/MY-23834791/bafo-usb-to-serial-adapter-500x500.jpg"
+    },
+    {
+        "title": "Arduino",
+        "category": "processor",
+        "description": "processor",
+        "price": 380,
+        "cartQuantity": 1,
+        "image": "https://5.imimg.com/data5/EP/SH/MY-9215569/arduino-uno-500x500.jpg"
+    },
+    {
+        "title": "Robotic car",
+        "category": "robotics",
+        "description": "robotics",
+        "price": 190,
+        "cartQuantity": 1,
+        "image": "https://5.imimg.com/data5/YJ/QW/MY-63331270/dsc05256-copy-500x500.jpg"
+    }
+]
